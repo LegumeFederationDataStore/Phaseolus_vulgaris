@@ -48,3 +48,4 @@ citations: Jeremy Schmutz, Phillip E McClean, Sujan Mamidi, G Albert Wu, Steven 
 file_transformation: 
 changes: 
   - 2018-03-03 added MANIFEST files
+  - 2018-09-15 updated fasta seq ids in headers s/>/>phavu.G19833.gnm1.ann1./ 
