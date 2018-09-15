@@ -44,3 +44,4 @@ file_transformation:
 changes: 
   - 2018-03-03 added MANIFEST files
   - 2018-04-26 removed '.p' from header name in phavu.G19833.gnm2.ann1.PB8d.protein.fa
+  - 2018-09-15 updated fasta seq ids in headers s/>/>phavu.G19833.gnm2.ann1./ 
