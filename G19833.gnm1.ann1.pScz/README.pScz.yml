@@ -49,3 +49,4 @@ file_transformation:
 changes: 
   - 2018-03-03 added MANIFEST files
   - 2018-09-15 updated fasta seq ids in headers s/>/>phavu.G19833.gnm1.ann1./ 
+  - 2019-06-10 Removed extraneous "GO:" from strings "GO:GO:" in .info_annot.txt
