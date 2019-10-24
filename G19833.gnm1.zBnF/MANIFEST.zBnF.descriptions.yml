@@ -1,0 +1,7 @@
+%YAML 1.2
+#filename in this repository:     description
+phavu.G19833.gnm1.zBnF.genome_hardmasked.fna.gz: Genome assembly - harmasked
+phavu.G19833.gnm1.zBnF.genome_main.fna.gz: Genome assembly - main
+phavu.G19833.gnm1.zBnF.genome_softmasked.fna.gz: Genome assembly - softmasked
+
+
