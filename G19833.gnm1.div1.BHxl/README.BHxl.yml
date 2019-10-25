@@ -57,3 +57,5 @@ file_transformation:
 
 changes: 
   - 2018-04-24 Added MANIFEST files, replaced '-' with "_" in file names. 
+  - 2018-04-24 Added VCF format of 712_geno_MDP_ADP_BASE120_237534_SNPs_Taq1_and_Mse, and version sampled at one SNP per 10 kb
+
