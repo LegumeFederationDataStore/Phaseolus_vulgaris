@@ -45,7 +45,9 @@ license: Open
 
 keywords: none
 
-citations: none
+citations: 
+  - Moghaddam, S. M., Mamidi, S., Osorno, J. M., Lee, R., Brick, M., Kelly, J., ... & Grimwood, J. (2016). Genome-wide association study identifies candidate loci underlying agronomic traits in a Middle American diversity panel of common bean. The plant genome, 9(3).
+  - Oladzad, A., Porch, T., Rosas, J. C., Moghaddam, S. M., Beaver, J., Beebe, S. E., ... & Ratz, B. (2019). Single and Multi-trait GWAS Identify Genetic Factors Associated with Production Traits in Common Bean Under Abiotic Stress Environments. G3: Genes, Genomes, Genetics, 9(6), 1881-1892.
 
 file_transformation: 
   - phavu.G19833.gnm1.BHxl.243623_SNP_positions.txt.gz                                              none
@@ -57,5 +59,6 @@ file_transformation:
 
 changes: 
   - 2018-04-24 Added MANIFEST files, replaced '-' with "_" in file names. 
-  - 2018-04-24 Added VCF format of 712_geno_MDP_ADP_BASE120_237534_SNPs_Taq1_and_Mse, and version sampled at one SNP per 10 kb
+  - 2019-10-25 Added VCF format of 712_geno_MDP_ADP_BASE120_237534_SNPs_Taq1_and_Mse, and version sampled at one SNP per 10 kb
+  - 2019-10-29 Converted hmp files from CRLF to LF line endings (Windows to Unix), and recompressed with bgzip --compress-level 9. Added citations to README.
 
