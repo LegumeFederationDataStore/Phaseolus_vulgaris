@@ -1,0 +1,8 @@
+%YAML 1.2
+---
+#filename in this repository: description
+phavu.UI111.gnm1.3VTM.genome_main.fna.gz:      Genome assembly - main
+phavu.UI111.gnm1.3VTM.genome_main.gff3.gz:     Chromosomal and scaffold sizes
+phavu.UI111.gnm1.3VTM.genome_hardmasked.fa.gz: Genome assembly, with repeats masked with Ns
+phavu.UI111.gnm1.3VTM.genome_softmasked.fa.gz: Genome assembly, with repeats indicated with lower-case
+

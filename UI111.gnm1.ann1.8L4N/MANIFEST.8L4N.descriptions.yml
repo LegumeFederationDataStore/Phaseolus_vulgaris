@@ -1,0 +1,13 @@
+%YAML 1.2
+---
+phavu.UI111.gnm1.ann1.8L4N.cds.fna.gz:     Coding sequence
+phavu.UI111.gnm1.ann1.8L4N.cds_primaryTranscript.fna.gz:     Coding sequence - primary transcript per gene
+phavu.UI111.gnm1.ann1.8L4N.gene_models_main.gcv_chado.gff3.gz:     Basic gene models (without functional descriptors), for loading chado database
+phavu.UI111.gnm1.ann1.8L4N.gene_models_main.gff3.gz.gz:     Gene models, with functional descriptors assigned by AHRD 
+phavu.UI111.gnm1.ann1.8L4N.info_annot.txt.gz:     Annotation information
+phavu.UI111.gnm1.ann1.8L4N.info_defline.txt.gz:     Functional descriptor, from Phytozome
+phavu.UI111.gnm1.ann1.8L4N.protein.faa.gz:     Predicted protein sequence
+phavu.UI111.gnm1.ann1.8L4N.protein_primaryTranscript.faa.gz:     Predicted protein sequence - primary transcript per gene
+phavu.UI111.gnm1.ann1.8L4N.repeatmasked_assembly_v1.0.gff3.gz:     Repeat-masking coordinates
+phavu.UI111.gnm1.ann1.8L4N.transcript.fna.gz:     Transcript sequences
+phavu.UI111.gnm1.ann1.8L4N.transcript_primaryTranscript.fna.gz:     Transcript sequences - primary transcript per gene

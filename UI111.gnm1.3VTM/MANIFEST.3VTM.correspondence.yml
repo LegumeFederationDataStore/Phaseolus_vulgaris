@@ -1,0 +1,6 @@
+%YAML 1.2
+---
+phavu.UI111.gnm1.3VTM.genome_main.fna.gz: PvulgarisUI111_534_v1.0.fa.gz
+phavu.UI111.gnm1.3VTM.genome_hardmasked.fna.gz: PvulgarisUI111_534_v1.0.hardmasked.fa.gz
+phavu.UI111.gnm1.3VTM.genome_softmasked.fna.gz: PvulgarisUI111_534_v1.0.softmasked.fa.gz
+phavu.UI111.gnm1.3VTM.genome_main.gff3.gz: derived from genome_main.fna
