@@ -11,3 +11,4 @@ phavu.UI111.gnm1.ann1.8L4N.protein_primaryTranscript.faa.gz:     Predicted prote
 phavu.UI111.gnm1.ann1.8L4N.repeatmasked_assembly_v1.0.gff3.gz:     Repeat-masking coordinates
 phavu.UI111.gnm1.ann1.8L4N.transcript.fna.gz:     Transcript sequences
 phavu.UI111.gnm1.ann1.8L4N.transcript_primaryTranscript.fna.gz:     Transcript sequences - primary transcript per gene
+phavu.UI111.gnm1.ann1.8L4N.legfed_v1_0.M65K.gfa.tsv.gz:     Gene family assignments

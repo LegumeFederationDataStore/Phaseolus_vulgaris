@@ -52,3 +52,6 @@ changes: Begin each change note with a date string, e.g. 2018-03-23 -->
   - 2018-06-21 Changed file names as noted in MANIFEST file
   - 2018-06-21 Added README and MANIFEST files
   - 2018-06-21 Changed column 1 and column 9 ID's to include gensp.GENOTYPE.gnm#.ann#
+  - 2020-04-29 Replaced Pv with Chr
+  - 2020-04-29 Updated to full gensp.GENOTYPE.gnm#.ann# on the two files that lacked it
+  - 2020-04-29 Dropped .ann# from column 1 and column 9 IDs, they don't belong on chromosomes/scaffolds
