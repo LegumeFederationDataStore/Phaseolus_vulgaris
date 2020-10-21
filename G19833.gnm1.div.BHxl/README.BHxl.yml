@@ -61,4 +61,4 @@ changes:
   - 2018-04-24 Added MANIFEST files, replaced '-' with "_" in file names. 
   - 2019-10-25 Added VCF format of 712_geno_MDP_ADP_BASE120_237534_SNPs_Taq1_and_Mse, and version sampled at one SNP per 10 kb
   - 2019-10-29 Converted hmp files from CRLF to LF line endings (Windows to Unix), and recompressed with bgzip --compress-level 9. Added citations to README.
-
+  - 2020-10-20 Changed filenames to canonical Data Store form, i.e. phavu.G19833.gnm1.div.BHxl*
