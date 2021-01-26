@@ -1,0 +1,14 @@
+# BUSCO version is: 4.0.4 
+# The lineage dataset is: embryophyta_odb10 (Creation date: 2020-09-10, number of species: 50, number of BUSCOs: 1614)
+# Summarized benchmarking in BUSCO notation for file /erdos/ctc/ncbi_busco_test/legfed/usr/local/www/data/public/Phaseolus_vulgaris/UI111.gnm1.3VTM/phavu.UI111.gnm1.3VTM.genome_main.fna
+# BUSCO was run in mode: genome
+
+	***** Results: *****
+
+	C:98.4%[S:95.5%,D:2.9%],F:0.6%,M:1.0%,n:1614	   
+	1587	Complete BUSCOs (C)			   
+	1541	Complete and single-copy BUSCOs (S)	   
+	46	Complete and duplicated BUSCOs (D)	   
+	9	Fragmented BUSCOs (F)			   
+	18	Missing BUSCOs (M)			   
+	1614	Total BUSCO groups searched		   

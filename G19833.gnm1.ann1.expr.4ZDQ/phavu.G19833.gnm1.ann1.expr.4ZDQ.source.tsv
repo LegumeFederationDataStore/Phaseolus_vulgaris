@@ -1,0 +1,28 @@
+#DATASOURCE	
+#	
+#Name, descriptive (max 250 char)	
+NAME	An RNA-Seq based gene expression atlas of the common bean cv. Negro jamapa.
+#Shortname: max 64 char	
+SHORTNAME	Expression atlas of common bean Negro jamapa
+#Origin: ex. SRA, GEO, A labname, etc.	
+ORIGIN	SRA
+#Description: our description if needed	
+DESCRIPTION	Phaseolus vulgaris cv. Negro jamapa expression profiles in the P. vulgaris reference genome (G 19833) for 24 unique samples from seven distinct tissues; roots, nodules, stems, flowers, leaves, pods, and seeds throughout development.
+#NCBI BioProj acc, PRJNA num	
+BIOPROJ_ACC	PRJNA210619
+#NCBI BioProj Title	
+BIOPROJ_TITLE	RNA-seq analysis of Phaseolus vulgaris cv. Negro jamapa.
+#NCBI BioProj description/ abstract(?)	
+BIOPROJ_DESCRIPTION	We present the Phaseolus vulgaris cv. Negro jamapa expression profiles for all predicted genes in the P. vulgaris reference genome (G 19833) for 24 unique samples from seven distinct tissues; roots, nodules, stems, flowers, leaves, pods, and seeds throughout development. We identified genes differentially expressed between distinct tissues and between samples from the same tissue collected at different time points. We have also identified sequences uniquely expressed in each sample and in each tissue. Genes with stable expression patterns, to be used as housekeeping sequences in future experiments, were also identified. We utilized the expression profiles of all predicted genes in Phaseolus vulgaris to examine the biological processes related to seed and pod development, nodulation and symbiosis, and changes in gene expression due to nitrogen availability.
+#NCBI SRP number	
+SRA_PROJ_ACC	SRP046307
+# GEO series if exists	
+GEO_SERIES	
+#Associated publication at NCBI	
+BIOPROJ_PUBLICATION	 O'Rourke JA, Iniguez LP, Fu F, Bucciarelli B, Miller SS, Jackson SA, McClean PE, Li J, Dai X, Zhao PX, Hernandez G, Vance CP. An RNA-Seq based gene expression atlas of the common bean. BMC Genomics. 2014 Oct 6;15:866. doi:10.1186/1471-2164-15-866. PMID: 25283805; PMCID:PMC4195886.
+# PubMed ID
+PUB_PMID	25283805
+#Link to Pub	
+PUB_LINK	https://www.ncbi.nlm.nih.gov/pubmed/25283805
+#Link to full publication	
+PUB_FULLLINK	https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4195886/

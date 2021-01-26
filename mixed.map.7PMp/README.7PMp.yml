@@ -47,11 +47,12 @@ and
 Matthew W. Blair, Andrés J. Cortés, Andrew D. Farmer, Wei Huang, Teshale Assefa, R. Varma Penmetsa, Steven B. Cannon. Uneven recombination and linkage disequilibrium across a reference SNP map for common bean (Phaseolus vulgaris L.). PLoS ONE 13(3): e0189597. https://doi.org/10.1371/journal.pone.0189597
 
 file_transformation: 
-  - phavu.mixed.map1.7PMp.cmap.txt.gz           none
-  - phavu.mixed.map1.7PMp.flanking_seq.fna.gz   derived from 122_2012_1999_MOESM2_ESM.xls
-  - phavu.mixed.map1.7PMp.map.gff3.gz           none
-  - phavu.mixed.map1.7PMp.source.xlsx.gz        derived from 122_2012_1999_MOESM2_ESM.xls. Short names are derived from original names, as described in notes worksheet.
+  - phavu.mixed.map.7PMp.cmap.txt.gz           none
+  - phavu.mixed.map.7PMp.flanking_seq.fna.gz   derived from 122_2012_1999_MOESM2_ESM.xls
+  - phavu.mixed.map.7PMp.map.gff3.gz           none
+  - phavu.mixed.map.7PMp.source.xlsx.gz        derived from 122_2012_1999_MOESM2_ESM.xls. Short names are derived from original names, as described in notes worksheet.
 
 chnages: 
   - 2018-04-26 Added MANIFEST files
-  - 2018-04-26 Changed the chromosome names by replacing 'Pv' with "phavu.G19833.gnm1.Chr" and changed the SNP marker names by adding "Pv_" to the beginning of the SNP name in phavu.mixed.map1.7PMp.map.gff3 
+  - 2018-04-26 Changed the chromosome names by replacing 'Pv' with "phavu.G19833.gnm1.Chr" and changed the SNP marker names by adding "Pv_" to the beginning of the SNP name in phavu.mixed.map.7PMp.map.gff3 
+  - 2020-09-24 Changed collection and filenames from map1 to map
